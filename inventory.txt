@@ -1,0 +1,33 @@
+3
+BiCycle
+/home/jagan/Desktop/INTERN PROJECT//home/jagan/Desktop/INTERN PROJECT
+
+false
+12344
+02/16/2022
+Black
+Good product
+/home/jagan/Downloads/—Pngtree—calendar icon graphic design template_3790044.png
+Ca
+/home/jagan/Desktop/INTERN PROJECT/sample
+null
+true
+1234
+02/01/2022
+Black
+good product
+/home/jagan/1338353 (1).jpg
+Ca
+/home/jagan/Desktop/INTERN PROJECT/sample
+null
+true
+1234
+02/01/2022
+Black
+good product
+/home/jagan/1338353 (1).jpg
+4
+null
+
+/home/jagan/Desktop/INTERN PROJECT/sample
+/home/jagan/Desktop/INTERN PROJECT//home/jagan/Desktop/INTERN PROJECT
